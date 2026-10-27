@@ -26,12 +26,15 @@ Les fichiers sont compilés sur Ubuntu 20.04 LTS avec :
 | `3-print_alphabets.c` | Affiche l'alphabet en minuscules puis en majuscules avec putchar |
 | `4-print_alphabt.c` | Affiche l'alphabet en minuscules sans q et e |
 | `5-print_numbers.c` | Affiche les chiffres de 0 à 9 |
+| `6-print_numberz.c` | Affiche les chiffres de 0 à 9 avec putchar, sans variable char |
 | `3-print_alphabets.c` | Affiche l'alphabet en minuscules puis en majuscules avec putchar |
 | `4-print_alphabt.c` | Affiche l'alphabet en minuscules sans q et e |
 | `5-print_numbers.c` | Affiche les chiffres de 0 à 9 |
+| `6-print_numberz.c` | Affiche les chiffres de 0 à 9 avec putchar, sans variable char |
 | `3-print_alphabets.c` | Affiche l'alphabet en minuscules puis en majuscules avec putchar |
 | `4-print_alphabt.c` | Affiche l'alphabet en minuscules sans q et e |
 | `5-print_numbers.c` | Affiche les chiffres de 0 à 9 |
+| `6-print_numberz.c` | Affiche les chiffres de 0 à 9 avec putchar, sans variable char |
 
 ## Auteur
 
