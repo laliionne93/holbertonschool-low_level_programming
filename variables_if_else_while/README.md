@@ -23,6 +23,9 @@ Les fichiers sont compilés sur Ubuntu 20.04 LTS avec :
 | `0-positive_or_negative.c` | Affiche si un nombre aléatoire est positif, nul ou négatif |
 | `1-last_digit.c` | Affiche le dernier chiffre d'un nombre aléatoire et le compare à 5 et 0 |
 | `2-print_alphabet.c` | Affiche l'alphabet en minuscules avec putchar |
+| `3-print_alphabets.c` | Affiche l'alphabet en minuscules puis en majuscules avec putchar |
+| `3-print_alphabets.c` | Affiche l'alphabet en minuscules puis en majuscules avec putchar |
+| `3-print_alphabets.c` | Affiche l'alphabet en minuscules puis en majuscules avec putchar |
 
 ## Auteur
 
