@@ -21,6 +21,7 @@ Les fichiers sont compilés sur Ubuntu 20.04 LTS avec :
 | Fichier | Description |
 |---|---|
 | `0-positive_or_negative.c` | Affiche si un nombre aléatoire est positif, nul ou négatif |
+| `1-last_digit.c` | Affiche le dernier chiffre d'un nombre aléatoire et le compare à 5 et 0 |
 
 ## Auteur
 
