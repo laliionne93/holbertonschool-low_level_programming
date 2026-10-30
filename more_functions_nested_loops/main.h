@@ -1,3 +1,5 @@
+void more_numbers(void);
+
 #ifndef MAIN_H
 #define MAIN_H
 
