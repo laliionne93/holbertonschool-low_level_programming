@@ -16,3 +16,4 @@ This project covers nested loops, functions, prototypes and header files in C.
 ~                                                                                                                                    
 ~                                        
 - `2-mul.c`: multiplies two integers
+- `3-print_numbers.c`: prints the numbers from 0 to 9
