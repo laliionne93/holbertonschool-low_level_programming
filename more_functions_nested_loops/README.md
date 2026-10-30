@@ -6,3 +6,12 @@ This project covers nested loops, functions, prototypes and header files in C.
 
 - `main.h`: header file with the prototypes of all functions
 - `0-isupper.c`: checks for an uppercase character
+
+
+
+- `main.h`: header file with the prototypes of all functions
+- `0-isupper.c`: checks for an uppercase character
+~                                                                                                                                    
+~                                                                                                                                    
+~                                                                                                                                    
+~                                        
