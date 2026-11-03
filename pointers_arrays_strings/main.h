@@ -6,3 +6,4 @@ void reset_to_98(int *n);
 
 #endif
 int _strlen(char *s);
+void _puts( *str)
