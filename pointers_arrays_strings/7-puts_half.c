@@ -5,7 +5,7 @@
  * @str: the string to print
  *
  * Description: if the length is odd, prints the last
- * (length + 1) / 2 characters.
+ * (length - 1) / 2 characters.
  */
 void puts_half(char *str)
 {
@@ -15,7 +15,7 @@ void puts_half(char *str)
 	while (str[len] != '\0')
 		len++;
 
-	for (i = len / 2; i < len; i++)
+	for (i = (len + 1) / 2; i < len; i++)
 		_putchar(str[i]);
 
 	_putchar('\n');
