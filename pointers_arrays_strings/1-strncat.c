@@ -4,9 +4,9 @@
  * _strncat - concatenates two strings using at most n bytes from src
  * @dest: destination string
  * @src: source string
- * @n: maximum number of bytes to copy from src
+ * @n: maximum number of bytes to use from src
  *
- * Return: pointer to dest
+ * Return: pointer to the resulting string dest
  */
 char *_strncat(char *dest, char *src, int n)
 {
@@ -22,6 +22,7 @@ char *_strncat(char *dest, char *src, int n)
 		i++;
 		j++;
 	}
+
 	dest[i] = '\0';
 
 	return (dest);
