@@ -15,8 +15,14 @@ unsigned int _strspn(char *s, char *accept);
 
 #include <stddef.h>
 
+#include <stddef.h>
+
 /* tes prototypes existants... */
 char *_strchr(char *s, char c);
+
+void print_diagsums(int *a, int size);
+
+int _putchar(char c);
 
 #endif
 
@@ -26,8 +32,14 @@ char *_strchr(char *s, char c);
 
 #include <stddef.h>
 
+#include <stddef.h>
+
 int _putchar(char c);
 /* ... tes autres prototypes ... */
 void print_chessboard(char (*a)[8]);
+
+void print_diagsums(int *a, int size);
+
+int _putchar(char c);
 
 #endif
