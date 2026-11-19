@@ -2,9 +2,9 @@
 #include "dog.h"
 
 /**
-*print_dog - struct dog a struct dog
-*@d:pointers to the struct dog to print
-*/
+ * print_dog - prints a struct dog
+ * @d: pointer to the struct dog to print
+ */
 void print_dog(struct dog *d)
 {
 	if (d == NULL)
