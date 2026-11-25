@@ -2,8 +2,8 @@
 #include <stdarg.h>
 #include "variadic_functions.h"
 /**
- * prints_all - prints anything
- *@format: list of types of arguments
+ * print_all - prints anything
+ * @format: list of types of arguments (c, i, f, s)
  *
  * Return : Nothing
  */
